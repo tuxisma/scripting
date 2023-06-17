@@ -1,8 +1,8 @@
-Show all shell on the host:
+Show all shell on the host
 
-cat /etc/shells
+`cat /etc/shells`
 
+What kind of shell are we using
 
-What kind of shell are we using:
+`echo $SHELL`
 
-echo $SHELL
